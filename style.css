@@ -1,0 +1,33 @@
+h1{
+    font-size: 50px;
+    color: indigo;
+}
+h5{
+    color: #26262b;
+    font: bold;
+}
+h2{
+    color: crimson;
+}
+.card img{
+    height:400px
+}
+.card{
+    box-shadow: 2px 2px 5px 5px #F9F9F9;
+    padding: 20px;
+}
+header{
+    background: hsl(60, 29%, 92%);
+    padding-bottom: 30px;
+}
+.footer-left-cards{
+    box-shadow: 5px 5px #F9F9F9;
+    padding: 10px;
+    text-align:left;
+}
+.brand img{
+    width: 15%;
+    height: 15%;
+    padding-left: 2%;
+    margin-top: 20px;
+}
